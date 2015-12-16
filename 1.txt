@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello
- world
-=======
 and people
->>>>>>> Added and people
+ 
